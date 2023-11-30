@@ -1,16 +1,20 @@
-### Hi there 👋
 
-<!--
-**kejrak/kejrak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align='center'>
+  Hi there Folks! 👋 <br />
+  I'm Jan Kejř 👨‍💻
+</h1>
 
-Here are some ideas to get you started:
+<p align='center'>
+  An Open-source Evangelist.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align='center'>
+  
+  <a href="https://www.linkedin.com/in/jan-kejr/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <a href="https://instagram.com/alexandresanlim">
+   <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  
+</p>
