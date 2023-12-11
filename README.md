@@ -19,7 +19,7 @@
 
   <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ansible,kubernetes,docker,grafana,prometheus,go,py" />
+    <img src="https://skillicons.dev/icons?i=ansible,kubernetes,docker,grafana,prometheus,go,py,ts" />
   </a>
 </p>
   
