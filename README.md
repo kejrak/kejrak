@@ -16,5 +16,11 @@
   <a href="https://jankejr.cz">
    <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />
   </a>&nbsp;&nbsp;
+
+  <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ansible,kubernetes,docker,grafana,prometheus,go,py" />
+  </a>
+</p>
   
 </p>
