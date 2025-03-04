@@ -1,26 +1,18 @@
-
-<h1 align='center'>
-  Hi there Folks! 👋 <br />
+<h1 align="left">
+  Hello.  
   I'm Jan Kejř 👨‍💻
 </h1>
 
-<p align='center'>
-  An Open-source Evangelist.
+<p align="left">
+Passionate Developer | Platform Engineer 🚀 
+
+I am a dedicated Platform/Devops engineer and graphic designer with a strong passion for technology, programming, cloud and computer networking.
+In my role as a DevOps engineer, I am deeply interested in automation, alongside developing, managing, and deploying high-availability applications, and creating robust CI/CD pipelines. 
 </p>
 
-<p align='center'>
-  
-  <a href="https://www.linkedin.com/in/jan-kejr/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>&nbsp;&nbsp;
-  <a href="https://jankejr.cz">
-   <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />
-  </a>&nbsp;&nbsp;
+<p align="left">
+  <img height="48%" src="https://github-readme-stats.vercel.app/api?username=kejrak&show_icons=true&theme=github_dark&hide_border=true" />
+  <img height="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=kejrak&theme=github-dark&hide_border=true" />
+</p>
 
-  <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ansible,kubernetes,docker,grafana,prometheus,go,py,ts" />
-  </a>
-</p>
-  
-</p>
+![Static Badge](https://img.shields.io/badge/currently_working_on-chutno.cz-green)
